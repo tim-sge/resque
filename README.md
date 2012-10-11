@@ -1034,3 +1034,4 @@ Chris Wanstrath :: chris@ozmm.org :: @defunkt
 [sv]: http://semver.org/
 [rs]: https://github.com/defunkt/redis-namespace
 [cb]: https://wiki.github.com/defunkt/resque/contributing
+
